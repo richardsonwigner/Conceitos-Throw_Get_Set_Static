@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceitos Throw_Get_Set_Static", "Conceitos Throw_Get_Set_Static\Conceitos Throw_Get_Set_Static.csproj", "{E1936D77-3D05-41AD-B04A-31FD9F222464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1936D77-3D05-41AD-B04A-31FD9F222464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1936D77-3D05-41AD-B04A-31FD9F222464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1936D77-3D05-41AD-B04A-31FD9F222464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1936D77-3D05-41AD-B04A-31FD9F222464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D1FA75-18B8-4104-8EF0-3676C4C89D81}
+	EndGlobalSection
+EndGlobal
